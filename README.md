@@ -88,13 +88,21 @@ npm run dev
 
 ```
 
-
 ## 🖥️ Aperçu de l'application
 
 Voici quelques captures d’écran de l’interface utilisateur :
 
 ### 📌 Page d'accueil
 ![Page d'accueil](task-manager-frontend/public/screenshots/homepage.png)
+
+### ⚠️ Erreur de connexion (si le backend est indisponible)
+![Erreur backend](task-manager-frontend/public/screenshots/homepage-error.png)
+
+### ➕ Ajout d'une tâche
+![Ajout d'une tâche](task-manager-frontend/public/screenshots/ajouter.png)
+
+### ✅ Tâche terminée (Done)
+![Tâche terminée](task-manager-frontend/public/screenshots/done.png)
 
 
 
