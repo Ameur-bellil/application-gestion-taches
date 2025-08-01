@@ -22,8 +22,12 @@ Elle permet d'ajouter, consulter, supprimer et (optionnellement) mettre à jour 
 ## 📁 Structure du projet
 
 task-manager/
-├── task-manager-frontend/    # Frontend React + TypeScript
-└── task-manager-backend/     # Backend Express + TypeScript
+
+
+├── task-manager-frontend/ # Frontend React + TypeScript
+
+
+└── task-manager-backend/ # Backend Express + TypeScript
 
 ---
 
@@ -88,6 +92,10 @@ npm run dev
 ## 🖥️ Aperçu de l'application
 
 Voici quelques captures d’écran de l’interface utilisateur :
+
+### 📌 Page d'accueil
+![Page d'accueil](task-manager-frontend/public/screenshots/homepage.png)
+
 
 
 ## 🔌 Backend attendu
